@@ -1,0 +1,94 @@
+.p_class1{
+
+
+ position: absolute;
+width: 276px;
+height: 59px;
+left: 250px;
+top: 59px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+}
+.p_class2{
+
+    position: absolute;
+width: 151px;
+height: 24px;
+left: 229px;
+top: 108px;
+
+font-family: Rakkas;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color: #C83131;
+
+}
+.input_class{
+
+    position: absolute;
+width: 253px;
+height: 42px;
+left: 230px;
+top: 150px;
+
+background: rgba(81, 49, 173, 0.17);
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.p_class3{
+
+    position: absolute;
+width: 100px;
+height: 8px;
+left: 234px;
+top: 209px;
+
+font-family: Rakkas;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color: #DD2222;
+}
+.input_class2{
+
+    position: absolute;
+width: 253px;
+height: 42px;
+left: 230px;
+top: 250px;
+
+background: rgba(81, 49, 173, 0.19);
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+button{
+
+    position: absolute;
+width: 256px;
+height: 61px;
+left: 227px;
+top: 312px;
+
+background: #262CB3;
+font-family: Rakkas;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+color: #E7D6D1;
+}
