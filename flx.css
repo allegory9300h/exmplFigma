@@ -1,0 +1,10 @@
+.container{
+   display: flex;
+   flex-direction: column;
+   
+}
+.q{
+    margin: auto;
+    padding: 5px;
+}
+
